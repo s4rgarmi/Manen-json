@@ -1,0 +1,290 @@
+[
+  {
+    "id": "MOON-001",
+    "name": "Phobos",
+    "description": "The larger of the two moons of Mars. It is an irregular, potato-shaped body with a mean radius of only about 11 km, and it circles Mars in less than eight hours. Asaph Hall named it after one of the sons of Ares, the Greek god of war.",
+    "meanRadiusKm": 11.08,
+    "orbitalPeriodDays": 0.3187,
+    "isRetrograde": false,
+    "discoveryDate": "1877-08-17",
+    "discoveredBy": "Asaph Hall",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/phobos.jpg",
+    "sizeCategory": "Small",
+    "designations": [
+      "Mars I",
+      "NAIF 401"
+    ],
+    "planet": {
+      "id": "PLANET-004",
+      "name": "Mars",
+      "planetType": "Terrestrial",
+      "orderFromSun": 4,
+      "hasRings": false,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/mars.jpg"
+    }
+  },
+  {
+    "id": "MOON-002",
+    "name": "Deimos",
+    "description": "The smaller and outer moon of Mars, found by Asaph Hall a few days before Phobos. Like Phobos it is small and irregular in shape, and its name also comes from one of the sons of Ares in Greek mythology.",
+    "meanRadiusKm": 6.2,
+    "orbitalPeriodDays": 1.2625,
+    "isRetrograde": false,
+    "discoveryDate": "1877-08-11",
+    "discoveredBy": "Asaph Hall",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/deimos.jpg",
+    "sizeCategory": "Small",
+    "designations": [
+      "Mars II",
+      "NAIF 402"
+    ],
+    "planet": {
+      "id": "PLANET-004",
+      "name": "Mars",
+      "planetType": "Terrestrial",
+      "orderFromSun": 4,
+      "hasRings": false,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/mars.jpg"
+    }
+  },
+  {
+    "id": "MOON-003",
+    "name": "Io",
+    "description": "The innermost of the four large moons that Galileo discovered around Jupiter. Io is the most volcanically active world in the solar system, with hundreds of volcanoes caused by the constant gravitational pull of Jupiter and its neighbouring moons.",
+    "meanRadiusKm": 1821.49,
+    "orbitalPeriodDays": 1.762732,
+    "isRetrograde": false,
+    "discoveryDate": "1610-01-08",
+    "discoveredBy": "Galileo Galilei",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/io.jpg",
+    "sizeCategory": "Large",
+    "designations": [
+      "Jupiter I",
+      "NAIF 501"
+    ],
+    "planet": {
+      "id": "PLANET-005",
+      "name": "Jupiter",
+      "planetType": "Gas giant",
+      "orderFromSun": 5,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/jupiter.jpg"
+    }
+  },
+  {
+    "id": "MOON-004",
+    "name": "Ganymede",
+    "description": "The largest moon in the solar system, with a mean radius of more than 2,600 km. Galileo Galilei discovered it together with Jupiter's other large moons, which were the first moons ever found orbiting a planet other than Earth.",
+    "meanRadiusKm": 2631.2,
+    "orbitalPeriodDays": 7.155588,
+    "isRetrograde": false,
+    "discoveryDate": "1610-01-07",
+    "discoveredBy": "Galileo Galilei",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/ganymede.jpg",
+    "sizeCategory": "Large",
+    "designations": [
+      "Jupiter III",
+      "NAIF 503"
+    ],
+    "planet": {
+      "id": "PLANET-005",
+      "name": "Jupiter",
+      "planetType": "Gas giant",
+      "orderFromSun": 5,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/jupiter.jpg"
+    }
+  },
+  {
+    "id": "MOON-005",
+    "name": "Mimas",
+    "description": "A small, heavily cratered moon of Saturn and the closest of its large inner moons. William Herschel discovered it with his 40-foot reflecting telescope, only a few weeks after he found Enceladus.",
+    "meanRadiusKm": 198.2,
+    "orbitalPeriodDays": 0.942422,
+    "isRetrograde": false,
+    "discoveryDate": "1789-09-17",
+    "discoveredBy": "William Herschel",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/mimas.jpg",
+    "sizeCategory": "Small",
+    "designations": [
+      "Saturn I",
+      "NAIF 601"
+    ],
+    "planet": {
+      "id": "PLANET-006",
+      "name": "Saturn",
+      "planetType": "Gas giant",
+      "orderFromSun": 6,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/saturn.jpg"
+    }
+  },
+  {
+    "id": "MOON-006",
+    "name": "Enceladus",
+    "description": "A bright, icy moon of Saturn with a mean radius of about 252 km. It was spotted by the British astronomer William Herschel in 1789 and completes one orbit around Saturn in less than a day and a half.",
+    "meanRadiusKm": 252.1,
+    "orbitalPeriodDays": 1.370218,
+    "isRetrograde": false,
+    "discoveryDate": "1789-08-28",
+    "discoveredBy": "William Herschel",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/enceladus.jpg",
+    "sizeCategory": "Medium",
+    "designations": [
+      "Saturn II",
+      "NAIF 602"
+    ],
+    "planet": {
+      "id": "PLANET-006",
+      "name": "Saturn",
+      "planetType": "Gas giant",
+      "orderFromSun": 6,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/saturn.jpg"
+    }
+  },
+  {
+    "id": "MOON-007",
+    "name": "Rhea",
+    "description": "Saturn's second-largest moon after Titan. Giovanni Cassini discovered it in 1672, just over a year after he found Iapetus. Rhea needs about four and a half days to orbit Saturn.",
+    "meanRadiusKm": 763.5,
+    "orbitalPeriodDays": 4.517503,
+    "isRetrograde": false,
+    "discoveryDate": "1672-12-23",
+    "discoveredBy": "Giovanni Cassini",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/rhea.jpg",
+    "sizeCategory": "Medium",
+    "designations": [
+      "Saturn V",
+      "NAIF 605"
+    ],
+    "planet": {
+      "id": "PLANET-006",
+      "name": "Saturn",
+      "planetType": "Gas giant",
+      "orderFromSun": 6,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/saturn.jpg"
+    }
+  },
+  {
+    "id": "MOON-008",
+    "name": "Titan",
+    "description": "Saturn's largest moon and the second-largest moon in the solar system. It was discovered by the Dutch astronomer Christiaan Huygens in 1655 and takes almost sixteen days to complete one orbit around Saturn.",
+    "meanRadiusKm": 2574.76,
+    "orbitalPeriodDays": 15.945448,
+    "isRetrograde": false,
+    "discoveryDate": "1655-03-25",
+    "discoveredBy": "Christiaan Huygens",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/titan.jpg",
+    "sizeCategory": "Large",
+    "designations": [
+      "Saturn VI",
+      "NAIF 606"
+    ],
+    "planet": {
+      "id": "PLANET-006",
+      "name": "Saturn",
+      "planetType": "Gas giant",
+      "orderFromSun": 6,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/saturn.jpg"
+    }
+  },
+  {
+    "id": "MOON-009",
+    "name": "Iapetus",
+    "description": "A large moon in the outer part of Saturn's system. Giovanni Cassini discovered it in 1671. With an orbital period of more than 79 days, it is by far the slowest of Saturn's moons in this dataset.",
+    "meanRadiusKm": 734.3,
+    "orbitalPeriodDays": 79.331002,
+    "isRetrograde": false,
+    "discoveryDate": "1671-10-25",
+    "discoveredBy": "Giovanni Cassini",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/iapetus.jpg",
+    "sizeCategory": "Medium",
+    "designations": [
+      "Saturn VIII",
+      "NAIF 608"
+    ],
+    "planet": {
+      "id": "PLANET-006",
+      "name": "Saturn",
+      "planetType": "Gas giant",
+      "orderFromSun": 6,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/saturn.jpg"
+    }
+  },
+  {
+    "id": "MOON-010",
+    "name": "Titania",
+    "description": "The largest moon of Uranus. William Herschel discovered it on the same night as Oberon, six years after he discovered Uranus itself. It takes almost nine days to circle the planet.",
+    "meanRadiusKm": 788.9,
+    "orbitalPeriodDays": 8.705869,
+    "isRetrograde": false,
+    "discoveryDate": "1787-01-11",
+    "discoveredBy": "William Herschel",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/titania.jpg",
+    "sizeCategory": "Medium",
+    "designations": [
+      "Uranus III",
+      "NAIF 703"
+    ],
+    "planet": {
+      "id": "PLANET-007",
+      "name": "Uranus",
+      "planetType": "Ice giant",
+      "orderFromSun": 7,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/uranus.jpg"
+    }
+  },
+  {
+    "id": "MOON-011",
+    "name": "Miranda",
+    "description": "The smallest of the five major moons of Uranus and the closest to the planet. Unlike the older discoveries in this dataset, it was found in telescopic photographs of the Uranian system by Gerard P. Kuiper in 1948.",
+    "meanRadiusKm": 235.8,
+    "orbitalPeriodDays": 1.413479,
+    "isRetrograde": false,
+    "discoveryDate": "1948-02-16",
+    "discoveredBy": "Gerard P. Kuiper",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/miranda.jpg",
+    "sizeCategory": "Small",
+    "designations": [
+      "Uranus V",
+      "NAIF 705"
+    ],
+    "planet": {
+      "id": "PLANET-007",
+      "name": "Uranus",
+      "planetType": "Ice giant",
+      "orderFromSun": 7,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/uranus.jpg"
+    }
+  },
+  {
+    "id": "MOON-012",
+    "name": "Triton",
+    "description": "Neptune's largest moon, discovered only seventeen days after Neptune itself. Triton is unusual because it orbits in the opposite direction to Neptune's rotation, which is called a retrograde orbit.",
+    "meanRadiusKm": 1352.6,
+    "orbitalPeriodDays": 5.876994,
+    "isRetrograde": true,
+    "discoveryDate": "1846-10-10",
+    "discoveredBy": "William Lassell",
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/moons/triton.jpg",
+    "sizeCategory": "Large",
+    "designations": [
+      "Neptune I",
+      "NAIF 801"
+    ],
+    "planet": {
+      "id": "PLANET-008",
+      "name": "Neptune",
+      "planetType": "Ice giant",
+      "orderFromSun": 8,
+      "hasRings": true,
+      "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/neptune.jpg"
+    }
+  }
+]
