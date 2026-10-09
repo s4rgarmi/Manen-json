@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PLANET-004",
+    "name": "Mars",
+    "planetType": "Terrestrial",
+    "orderFromSun": 4,
+    "hasRings": false,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/mars.jpg"
+  },
+  {
+    "id": "PLANET-005",
+    "name": "Jupiter",
+    "planetType": "Gas giant",
+    "orderFromSun": 5,
+    "hasRings": true,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/jupiter.jpg"
+  },
+  {
+    "id": "PLANET-006",
+    "name": "Saturn",
+    "planetType": "Gas giant",
+    "orderFromSun": 6,
+    "hasRings": true,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/saturn.jpg"
+  },
+  {
+    "id": "PLANET-007",
+    "name": "Uranus",
+    "planetType": "Ice giant",
+    "orderFromSun": 7,
+    "hasRings": true,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/uranus.jpg"
+  },
+  {
+    "id": "PLANET-008",
+    "name": "Neptune",
+    "planetType": "Ice giant",
+    "orderFromSun": 8,
+    "hasRings": true,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/neptune.jpg"
+  }
+]
