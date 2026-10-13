@@ -1,42 +1,82 @@
 [
   {
-    "id": "PLANET-004",
+    "id": "PLANET-001",
     "name": "Mars",
     "planetType": "Terrestrial",
-    "orderFromSun": 4,
+    "distanceFromSunAu": 1.524,
     "hasRings": false,
     "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/mars.jpg"
   },
   {
-    "id": "PLANET-005",
+    "id": "PLANET-002",
     "name": "Jupiter",
     "planetType": "Gas giant",
-    "orderFromSun": 5,
+    "distanceFromSunAu": 5.203,
     "hasRings": true,
     "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/jupiter.jpg"
   },
   {
-    "id": "PLANET-006",
+    "id": "PLANET-003",
     "name": "Saturn",
     "planetType": "Gas giant",
-    "orderFromSun": 6,
+    "distanceFromSunAu": 9.537,
     "hasRings": true,
     "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/saturn.jpg"
   },
   {
-    "id": "PLANET-007",
+    "id": "PLANET-004",
     "name": "Uranus",
     "planetType": "Ice giant",
-    "orderFromSun": 7,
+    "distanceFromSunAu": 19.189,
     "hasRings": true,
     "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/uranus.jpg"
   },
   {
-    "id": "PLANET-008",
+    "id": "PLANET-005",
     "name": "Neptune",
     "planetType": "Ice giant",
-    "orderFromSun": 8,
+    "distanceFromSunAu": 30.07,
     "hasRings": true,
     "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/neptune.jpg"
+  },
+  {
+    "id": "PLANET-006",
+    "name": "Orcus",
+    "planetType": "Dwarf planet candidate",
+    "distanceFromSunAu": 39.174,
+    "hasRings": false,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/orcus.jpg"
+  },
+  {
+    "id": "PLANET-007",
+    "name": "Pluto",
+    "planetType": "Dwarf planet",
+    "distanceFromSunAu": 39.482,
+    "hasRings": false,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/pluto.jpg"
+  },
+  {
+    "id": "PLANET-008",
+    "name": "Haumea",
+    "planetType": "Dwarf planet",
+    "distanceFromSunAu": 43.116,
+    "hasRings": true,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/haumea.jpg"
+  },
+  {
+    "id": "PLANET-009",
+    "name": "Quaoar",
+    "planetType": "Dwarf planet candidate",
+    "distanceFromSunAu": 43.694,
+    "hasRings": true,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/quaoar.jpg"
+  },
+  {
+    "id": "PLANET-010",
+    "name": "Eris",
+    "planetType": "Dwarf planet",
+    "distanceFromSunAu": 67.69,
+    "hasRings": false,
+    "imageUrl": "https://raw.githubusercontent.com/s4rgarmi/Manen-json/main/images/planets/eris.jpg"
   }
 ]
